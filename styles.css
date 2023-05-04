@@ -1,0 +1,844 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto Condensed",sans-serif;
+}
+
+
+.gbold {
+    padding-right: 600px;
+}
+.gbold li a {
+    color: #0bb40b;
+
+}
+.navbar-brand{
+    font-size: 1.2rem;
+    color: #FFE468;
+}
+
+.navbbr{
+    display: inline-flex;
+    align-items: center;
+}
+
+.col3hhh{
+    display: inline-flex;
+    align-items: center;
+    margin-right: 145px;
+    margin-top: 5px;
+}
+
+.top_bar_header .empty {
+    border-right: 1px solid #f5f1f1;
+    height: 35px !important;
+    list-style: none;
+    margin-right: 10px;
+    margin-left: -6px;
+
+}
+.top_bar_header{
+    margin-bottom: -8px;
+}
+.top_bar_header i{
+    color: rgb(15, 209, 15);
+}
+
+.top_bar_header .empt {
+    border-right: 1px solid #f5f1f1;
+    height: 35px !important;
+    list-style: none;
+
+  
+    margin-left: 20px;
+}
+.col3hhh a{
+    color: #066d0e;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+    
+
+
+
+.sub-header.sticky{
+    display: none;
+  } 
+  .sticky{
+      position: fixed;
+      top: 0px;
+      left: 0;
+      right: 0;
+      width: 100%;
+      justify-content: center;
+      z-index: 6666;
+  }
+ 
+
+
+.col2nd{
+    text-align: end;
+    
+   
+}
+
+.navright{
+        padding-right: 1.5rem;
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 16px;
+        justify-content: space-between;
+        
+}
+.navright li a{
+    margin-right: 30px;
+    font-size: medium;
+}
+
+.padlet{
+    padding-left: 75px;
+}
+
+.nvbrlt{
+    padding-left: 43px;
+    height: 85px;
+}
+
+
+
+.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.emptyy{
+    border-right: 5px solid #ffe468;
+    height: 85px !important;
+    list-style: none;
+
+    margin-right: 50px;
+
+}
+
+
+
+ .rounded-pill {
+    border-radius: 50rem!important;
+}
+.mt-4 {
+    margin-top: 1.5rem!important;
+}
+
+
+
+.btn.btn-secondary {
+    color: #fff;
+}
+
+.btn {
+    font-weight: 700;
+    transition: .5s;
+}
+.btn-secondary {
+    color: #000;
+    background-color: #8CC641;
+    border-color: #8CC641;
+}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #8CC641;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    border-radius: 8px;
+   
+}
+a {
+    color: #FFE468;
+    text-decoration: none;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+    
+}
+.g-0, .gx-0 {
+    --bs-gutter-x: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.logo{
+    width: 20px;
+    cursor:pointer;
+    padding-left: 678px;
+    height: 55px;
+}
+
+.navlet{
+    margin-left: -25px;
+    padding-bottom: 100px;
+}
+.footercolor{
+    background-color:#FFE468;
+    height: 50px;
+    justify-content: center;
+}
+
+.footercolor p{
+    margin-top: 15px;
+}
+
+.boldcard{
+    font-weight: 800;
+    font-family: "Roboto Condensed",sans-serif;
+     margin-bottom: 50px;
+     font-size: 2rem;
+     margin-top: 25px;
+     margin-left: 25px;
+}
+.card-title {
+    margin-bottom: 1.8rem;
+}
+.mrigntop{
+    margin-top: -100px;
+ 
+}
+.card-text{
+    margin-bottom: 2rem;
+    margin-left: 25px;
+}
+
+.mrigntop1{
+    margin-bottom: 100px;
+}
+.mmmt{
+    margin-left: 25px;
+    margin-bottom: 2rem;
+}
+.ltor{
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 145px;
+    margin-bottom: 80px;
+}
+
+.ltol{
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 90px;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.jumbotron{
+    background-image: url(img/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 750px;
+    padding-left: 36px;
+    
+}
+.jumbotron .bgimghight{
+    height: 200px;
+}
+.jumbooowth{
+    max-width: 730px;
+    font-family: "Roboto Condensed",sans-serif;
+    font-weight: 700;
+}
+
+.jumbooowth1{
+    max-width: 700px;
+    font-family: "Roboto Condensed",sans-serif;
+    font-size: 1.5rem;
+}
+.jumdiv{
+    margin-top: -550px;
+    margin-bottom: 380px;
+    margin-left: 70px
+}
+.jumdiv h1{
+    font-size: 4rem;
+}
+.jumdiv p{
+    margin-top: 20px;
+    margin-bottom: 2rem;
+}
+
+.card{
+    background-image: url(img/service.jpg);
+}
+
+.ggg{
+    background-image: url(img/quote.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    margin-top: 65px;
+    margin-bottom: 65px;
+}
+
+.pages{
+    background-image: url(img/testimonial.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   min-height: 600px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+
+.latstion{
+    background-image: url(img/call-to-action.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin-top: 100px;
+   
+}
+.lastmtft{
+    margin-left: 115px;
+    
+}
+.lastmtft h1{
+    font-size: 3.4rem;
+}
+
+.lastmtft p{
+    margin-bottom: 40px;
+    color: rgb(90, 87, 87);
+    font-size:1.3rem;
+}
+
+.ftimg{
+    background-image: url(img/footer.jpg);
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.backgg{
+    background-image: url(img/about-1.jpg);
+    background-size: cover;
+    width: 100%;
+    min-height: 500px;
+}
+.sidel{
+    margin-right: -80px;
+    position: relative;
+    margin-top: 85px;
+    margin-bottom: 30px;
+    z-index: 1;
+    height: 320px;
+    margin-left: -18px;
+  
+}
+.sidel p{
+    color: rgb(90, 87, 87);
+  
+}
+.sidell {
+    margin-left: -80px;
+    position: relative;
+    margin-top: 105px;
+    margin-bottom: 20px;
+    height: 320px;
+}
+.sidell p{
+    color: rgb(90, 87, 87);
+}
+
+.backhh{
+    background-image: url(img/about-2.jpg);
+    background-size: cover;
+    width: 100%;
+    min-height: 510px;
+    margin-bottom: 50px;
+}
+.backpinsss{
+    background-image: url(img/service.jpg);
+    margin-bottom: 30px;
+    margin-top: 30px;
+        background-size: cover;
+        transition: .5s;
+  
+}
+
+.lastcadetext{
+    display: flex;
+    border-bottom: 1px solid green;
+}
+.johnside{
+    display: flex;
+   
+}
+
+.text-truncate{
+    font-size: 1rem;
+    padding-top: 25px;
+    font-weight: bold;
+    color: #000;
+   
+}
+.backpinsss:hover {
+    
+   background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+.viceite .serconm{
+    margin-top: -40px;
+    width: 60px;
+    height: 60px;
+    color: var(--secondary);
+    background: #fff;
+    transform: rotate(-45deg);
+    margin-bottom: 40px;
+    padding-top: inherit;
+   
+}
+.viceite .serconm i{
+position: absolute;
+    left: 20px;
+    top: 5px;
+    color: rgb(15, 209, 15);
+}
+.viceite {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   padding: 50px;
+   padding-top: 10px;
+   flex-direction: column;
+}
+ 
+.serconm{
+    padding: 30px;
+}
+
+.team-item{
+    margin-left: -15px;
+}
+.cardbutnn h4{
+ font-weight: 700;
+}
+.bolddd h3{
+    font-family: "Roboto Condensed",sans-serif;
+    font-weight: 800;
+    
+}
+.bolddd{
+    margin-right: -100px;
+    margin-left: -100px;
+    
+}
+.sectinchng{
+    margin-top: 50px;
+    text-align: center;
+}
+.h3chang h3{
+    justify-content: center;
+    text-align: center;
+}
+
+.gchnage{
+    margin-right: -32px;
+    margin-left: -36px;
+}
+   
+.inputmt{
+    margin-bottom: 15px;
+    
+}
+.contctchange{
+    padding-top: 45px;
+    margin-left: -55px;
+    list-style: none;
+    text-decoration: none;
+}
+.sticky-top {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.mbt{
+    margin-top: 110px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+
+.mbtt{
+    margin-bottom: 15px;
+    margin-top: 100px;
+}
+.three{
+ margin-bottom: 75px;
+ margin-left: -75px;
+    margin-right: -75px;
+}
+.hedidnf{
+    overflow: hidden;
+    position: relative;
+    font-size: 1.5rem;
+    color: rgb(90, 87, 87);
+}
+.inputggg{
+    margin-top: 80px;
+    margin-left: -80px;
+   
+}
+.team-item{
+    position: relative;
+    margin-bottom: 45px;
+}
+.team-text{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: url(img/team.jpg) bottom center no-repeat;
+    background-size: cover;
+    height: 90px;
+    padding: 0 30px;
+    right: 45px;
+    left: 45px;
+    bottom: -45px;
+    transition: .5s;
+    z-index: 1;
+}
+
+
+
+
+
+.dflex{
+    display: flex;
+    flex-direction: column ;
+}
+.dflex i{
+ margin-right: 8px;
+
+}
+.dflexx i{
+    color: #FFE468;
+    margin-right: -8px;
+}
+.dflexx i a{
+    color: #e4e1d7;
+    text-decoration: none;
+}
+.dflex a{
+    color: #fff;
+    text-decoration: none;
+}
+.dfle i{
+    color: #fff;
+    padding-right: 7px;
+    
+}
+.cooorlr{
+    color: #ffe468;
+}
+
+
+
+.justify-content-start{
+    margin-top: -20px;
+}
+
+.team-item:hover .team-text {
+    height: 100%;
+    bottom: 0;
+}
+.teamhs h4{
+    justify-content: center;
+    text-align: center;
+}
+.lastcade{
+    background-color: #FFE468!important
+}
+.lastcadetext{
+    text-align: center !important;
+    height: 71px;
+    margin-top: -30px;
+}
+.johnside{
+    justify-content: space-between;
+    border-top: #0c7409;
+    padding: 20px;
+
+}
+.picjohn{
+    align-items: center;
+}
+
+.picset{
+    width: 30px;
+    height: 30px;
+
+}
+.eyesmes{
+    align-items: center;
+}
+
+ 
+  .jonhtopbox{
+    width: 50px;
+    height: 70px;
+    background-color: #8CC641;
+    text-align: center;
+    margin-top: 1px;
+    margin-right: 1.5rem;
+    justify-content: center;
+    flex-shrink: 0;
+    flex-direction: column;
+    display: flex;
+  }
+
+ .text-truncate{
+    margin-right: 1.5rem;
+    margin: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-top: 15px;
+ }
+
+ .btnnnn{
+    color: #000;
+    background-color: #FFE468;
+    border-color: #FFE468;
+    font-weight: 700;
+    transition: .5s;
+    border-radius: 50%!important;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    width: 46px;
+    height: 46px;
+    margin-right: 0.5rem!important;
+    padding: 0.5rem 1rem;
+    display: inline-block;
+    cursor: pointer;
+    line-height: 1.5;
+    font-size: 1.25rem;
+ }
+ 
+.textstrt{
+    padding-left: 250px;
+}
+
+.texcenter{
+    padding-left: 375px;
+}
+ .eyesmes i{
+   color: rgb(15, 209, 15);
+  
+ }
+ .lastcadetext i{
+ color: #e4e008;
+ }
+ 
+
+
+
+
+
+
+ /* media */
+
+ @media (max-width: 1200px) {
+    .jumbotron{
+      
+        width: 100%;
+        height: auto;
+        
+    }
+    .ggg {
+      
+        height: auto;
+        width: 100%;
+    }
+}
+
+@media (max-width: 992px) {
+    .jumbotron{
+        width: 100%;
+        height: auto;
+    }
+    .ggg {
+      
+        height: auto;
+        width: 100%;
+    }
+     .team-item{
+        width: 100%;
+        margin-bottom: 100px;
+       
+    }
+    .pages {
+      
+        height: auto;
+        width: 100%;
+    }
+    .lastcade{
+        width: 100%;
+        margin-bottom: 100px;
+    }
+    .latstion {
+      
+        height: auto;
+        width: 100%;
+    }
+    .ftimg{
+      
+        height: auto;
+        width: 100%;
+    }
+    .footercolor{
+        height: auto;
+        width: 100%;
+    }
+    .texcenter{
+        padding-right: 5px;
+    }
+
+}
+
+
+
+@media (max-width: 767px) {
+    .jumbotron{
+        width: 100%;
+        height: auto;
+       
+    }
+    .gchnage{
+        width: 110%;
+        justify-content: center;
+        align-items: center;
+        margin-left: -32px;
+    }
+    .mrigntop{
+        margin-top: -290px;
+        width: 85%;
+        margin-left: 10px;
+    }
+    .backgg {
+        margin-right: -65px;
+        width: 120%;
+        margin-bottom: 30px;
+        height: auto;
+    }
+    
+    .backhh{
+        
+        margin-right: 17px;
+    width: 95%;
+    
+    height: auto;
+    margin-left: 25px;
+    }
+
+
+    .sidell{
+        width: 98%;
+        justify-content: center;
+        align-items: center;
+        margin-left: 9px;
+        margin-top: -50px;
+    }
+    .bolddd{
+        width: 103%;
+        margin-left: -5px;
+    }
+    .ggg{
+        width: 100%;
+        margin-left: -5px;
+    }
+    .inputggg{
+        width: 100%;
+        margin-left: 30px;
+    }
+    .cardbutnn{
+        padding-left: 136px;
+        padding-right: 0px;
+        width: 80%;
+    }
+    .lastcade{
+        width: 80%;
+    margin-left: 54px;;
+    }
+    .latstion{
+        width: 100%;
+    }
+    .lastmtft{
+        width: 75%;
+        margin-left: 51px;
+    }
+
+
+.ftimg{
+ justify-content: center;
+ align-items: center;
+}
+.footercolor{
+    width: 100%;
+   }
+   .textstrt{
+    margin-left: -150px;
+    margin-top: 20px;
+   }
+   .texcenter{
+   
+    margin-top: -53px;
+    margin-left: 10px;
+   }
+}
+
+
+
